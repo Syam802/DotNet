@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("testing");
+            Console.WriteLine("Git test");
             Console.ReadKey();
         }
     }
