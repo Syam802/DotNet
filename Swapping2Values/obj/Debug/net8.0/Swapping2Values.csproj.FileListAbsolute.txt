@@ -1,0 +1,15 @@
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\bin\Debug\net8.0\Swapping2Values.exe
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\bin\Debug\net8.0\Swapping2Values.deps.json
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\bin\Debug\net8.0\Swapping2Values.runtimeconfig.json
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\bin\Debug\net8.0\Swapping2Values.dll
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\bin\Debug\net8.0\Swapping2Values.pdb
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.AssemblyInfoInputs.cache
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.AssemblyInfo.cs
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.csproj.CoreCompileInputs.cache
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.sourcelink.json
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.dll
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\refint\Swapping2Values.dll
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.pdb
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\Swapping2Values.genruntimeconfig.cache
+C:\Users\Syam\source\repos\Syam802\DotNet\Swapping2Values\obj\Debug\net8.0\ref\Swapping2Values.dll
